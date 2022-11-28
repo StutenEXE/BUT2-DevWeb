@@ -1,3 +1,4 @@
+<?php defined( '_JEXEC' ) or die( 'Restricted access' );?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -77,3 +78,4 @@
         <script src="JS/map.js"></script>
     </body>
 </html>
+<?>
